@@ -1,0 +1,23 @@
+{
+  "name": "modern-node-on-aws",
+  "version": "1.0.0",
+  "description": "Building a modern node.js application on aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariovelandiac/node-on-aws.git"
+  },
+  "keywords": [
+    "aws",
+    "node"
+  ],
+  "author": "Mario Velandia Ciendúa <mariovelandiawork@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariovelandiac/node-on-aws/issues"
+  },
+  "homepage": "https://github.com/mariovelandiac/node-on-aws#readme"
+}
