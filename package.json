@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mariovelandiac/node-on-aws/issues"
   },
-  "homepage": "https://github.com/mariovelandiac/node-on-aws#readme"
+  "homepage": "https://github.com/mariovelandiac/node-on-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1346.0"
+  }
 }
